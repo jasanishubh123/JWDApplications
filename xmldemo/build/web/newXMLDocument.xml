@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<persons>
+    <person>
+        <id>1</id>
+        <name>abc</name>
+        <city>Surat</city>  
+    </person>
+    <person>
+        <id>
+        2
+    </id>
+    <name>Shubham</name>
+    <city>Baroda</city>
+    </person>
+    <person>
+            <id>
+        3
+    </id>
+    <name>Snehal</name>
+    <city>Surat</city>
+
+    </person>
+        
+</persons>

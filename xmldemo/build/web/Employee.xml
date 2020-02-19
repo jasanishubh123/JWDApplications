@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Shubham</name>
+        <dept>HR</dept>
+        <salary>10000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Snehal</name>
+        <dept>Manager</dept>
+        <salary>100222</salary>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Jay</name>
+        <dept>Sales</dept>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Raj</name>
+        <dept>Purchase</dept>
+        <salary>60000</salary>
+    </employee>
+</employees>

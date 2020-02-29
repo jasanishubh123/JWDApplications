@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/FormServlet.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/filter/DepartmentValidation.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/filter/EmployeeValidation.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/DeptForm.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/displaydept.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/DisplayServlet.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/adddept.java</file>
+            <file>file:/home/shubham/NetBeansProjects/JWDAssignment/Question5/JDBC_WEB/src/java/Servlets/DeptWiseEmp.java</file>
+        </group>
+    </open-files>
+</project-private>
